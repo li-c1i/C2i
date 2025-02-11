@@ -3,11 +3,6 @@ color: #FF00E1;
 font-size: 96px;
 font-family: Kapakana;
 font-weight: 400;
-word-wrap: break-word --- // A day with me 
-color: #FF00AA;
-font-size: 96px;
-font-family: Kapakana;
-font-weight: 400;
 word-wrap: break-word --- // 16:00
 color: #FFFCFC;
 font-size: 48px;
@@ -17,6 +12,11 @@ word-wrap: break-word --- // 19:00
 color: white;
 font-size: 48px;
 font-family: Kumar One;
+font-weight: 400;
+word-wrap: break-word --- // A day with me 
+color: #FF00AA;
+font-size: 96px;
+font-family: Kapakana;
 font-weight: 400;
 word-wrap: break-word --- // 11:00
 color: white;
